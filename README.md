@@ -1,55 +1,164 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171329,50:6C4AB6,100:F2A7BB&height=190&section=header&text=Krupa%20B%20T&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20ideas%20into%20reality&descAlignY=60&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10101B,35:39265E,70:9B668B,100:E8B69A&height=220&section=header&text=KRUPA%20B%20T&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=BUILD%20%7C%20CREATE%20%7C%20EVOLVE&descSize=15&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=C9A7FF&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Building+Useful+Applications;Learning+by+Building+Real+Projects" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=D9B5F6&center=true&vCenter=true&width=650&lines=Turning+ideas+into+real+applications;Building+thoughtful+digital+experiences;Learning%2C+creating%2C+and+growing" alt="Animated introduction" />
 
-[LinkedIn](https://www.linkedin.com/in/krupa-b-t-26a153331) · [LeetCode](https://leetcode.com/u/Krupa_B_T/) · [Portfolio](https://smartsupport-ai-gamma.vercel.app) · [Email](mailto:krupabt83@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/krupa-b-t-26a153331"><img src="https://img.shields.io/badge/LINKEDIN-201A2C?style=for-the-badge&logo=linkedin&logoColor=D9B5F6" /></a>
+<a href="https://leetcode.com/u/Krupa_B_T/"><img src="https://img.shields.io/badge/LEETCODE-201A2C?style=for-the-badge&logo=leetcode&logoColor=E8B69A" /></a>
+<a href="mailto:krupabt83@gmail.com"><img src="https://img.shields.io/badge/CONTACT-201A2C?style=for-the-badge&logo=gmail&logoColor=F2B8C6" /></a>
+<a href="https://github.com/krupabt"><img src="https://img.shields.io/badge/EXPLORE%20GITHUB-201A2C?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
 </div>
 
 ---
 
-### ✦ A little about me
+<div align="center">
 
-I enjoy building practical applications, exploring intelligent systems, and turning ideas into products that solve real problems. This is where I share what I'm building and learning.
+### ✦ A LITTLE ABOUT MY WORLD
 
-### ◈ Selected projects
+*Curiosity starts it. Creativity shapes it. Code brings it to life.*
+
+I enjoy building useful applications and exploring ideas that make technology more practical. This profile is a collection of projects I've created, experiments I've explored, and ideas I'm bringing to life.
+
+</div>
+
+---
+
+## ✧ Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**✧ SmartSupport AI**
+<div align="center">
 
-AI-powered customer support with grounded answers, source citations, and complaint management.
+### 01 · AI & CUSTOMER EXPERIENCE
 
-[Explore project ↗](https://smartsupport-ai-gamma.vercel.app)
+<a href="https://smartsupport-ai-gamma.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE%20LIVE%20PROJECT-C9A7F2?style=for-the-badge&logoColor=16121F" alt="Explore SmartSupport AI" />
+</a>
+
+</div>
+
+**SmartSupport AI**
+
+An AI-powered customer support application featuring grounded answers, source citations, complaint management, and escalation workflows.
+
+`AI APPLICATION` · `CUSTOMER SUPPORT`
+
+[↗ Open live application](https://smartsupport-ai-gamma.vercel.app) · [Source code](https://github.com/krupabt/SmartSupport-AI)
 
 </td>
 <td width="50%" valign="top">
 
-**✧ MerchantPilot AI**
+<div align="center">
 
-E-commerce and revenue intelligence with product recommendations and shopping workflows.
+### 02 · E-COMMERCE & ANALYTICS
 
-[Explore repository ↗](https://github.com/krupabt/MerchantPilot-AI)
+<a href="https://merchantpilot-ai.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE%20LIVE%20PROJECT-E8B69A?style=for-the-badge&logoColor=16121F" alt="Explore MerchantPilot AI" />
+</a>
+
+</div>
+
+**MerchantPilot AI**
+
+An e-commerce and revenue intelligence platform combining product recommendations, shopping workflows, and revenue insights.
+
+`E-COMMERCE` · `INTELLIGENCE`
+
+[↗ Open live application](https://merchantpilot-ai.vercel.app) · [Source code](https://github.com/krupabt/MerchantPilot-AI)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**✧ Resume Analyzer**
+<div align="center">
 
-Matches resumes against job descriptions using text similarity and ranks relevant results.
+### 03 · CAREER TOOLS
+
+<a href="https://github.com/krupabt/Resume-Analyzer">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-B9C4FF?style=for-the-badge&logoColor=16121F" alt="View Resume Analyzer" />
+</a>
+
+</div>
+
+**Resume Analyzer**
+
+A resume-matching tool that extracts document content and ranks relevant resumes against job descriptions using text similarity.
+
+`DOCUMENT ANALYSIS` · `NLP`
+
+[↗ Explore repository](https://github.com/krupabt/Resume-Analyzer)
 
 </td>
 <td width="50%" valign="top">
 
-**✧ SG CUBE**
+<div align="center">
 
-An assistive vision concept combining visual understanding, OCR, and voice interaction.
+### 04 · ASSISTIVE VISION
+
+<a href="https://github.com/krupabt/SG-CUBE-Camera-Model">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-9EDBCB?style=for-the-badge&logoColor=16121F" alt="View SG CUBE" />
+</a>
+
+</div>
+
+**SG CUBE — Camera Model**
+
+An assistive vision project exploring real-time visual understanding, object recognition, OCR, and voice interaction.
+
+`COMPUTER VISION` · `ASSISTIVE AI`
+
+[↗ Explore repository](https://github.com/krupabt/SG-CUBE-Camera-Model)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 05 · DEEPFAKE DETECTION
+
+<a href="https://github.com/krupabt/HARNESSING-AI-FOR-DEEP-FAKE-DETECTION-IN-IMAGES-and-VIDEOS">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-C9A7F2?style=for-the-badge&logoColor=16121F" alt="View Deepfake Detection" />
+</a>
+
+</div>
+
+**Harnessing AI for Deepfake Detection**
+
+An AI project focused on detecting manipulated images and videos using deep-learning approaches.
+
+`IMAGE ANALYSIS` · `VIDEO ANALYSIS`
+
+[↗ Explore repository](https://github.com/krupabt/HARNESSING-AI-FOR-DEEP-FAKE-DETECTION-IN-IMAGES-and-VIDEOS)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 06 · WEB DEVELOPMENT
+
+<a href="https://github.com/krupabt/classic-online-shop">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-E8B69A?style=for-the-badge&logoColor=16121F" alt="View Classic Online Shop" />
+</a>
+
+</div>
+
+**Classic Online Shop**
+
+A web-based shopping application focused on product browsing and an online shopping experience.
+
+`WEB APPLICATION` · `E-COMMERCE`
+
+[↗ Explore repository](https://github.com/krupabt/classic-online-shop)
 
 </td>
 </tr>
@@ -57,22 +166,37 @@ An assistive vision concept combining visual understanding, OCR, and voice inter
 
 ---
 
-### ⌁ GitHub activity
+## ⌁ GitHub, in motion
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krupabt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A7FF&text_color=E6EDF3&icon_color=F2A7BB&rank_icon=github" height="165" alt="GitHub statistics" />
+<a href="https://github.com/krupabt">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krupabt&show_icons=true&hide_border=true&bg_color=10101B&title_color=D9B5F6&text_color=E8E3EF&icon_color=E8B69A" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/krupabt">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupabt&layout=compact&hide_border=true&bg_color=10101B&title_color=D9B5F6&text_color=E8E3EF" alt="Most used languages" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupabt&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A7FF&text_color=E6EDF3" height="165" alt="Most used languages" />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=krupabt&hide_border=true&background=0D1117&ring=C9A7FF&fire=F2A7BB&currStreakLabel=C9A7FF&sideLabels=E6EDF3&dates=9CA3AF" width="70%" alt="GitHub contribution streak" />
+<img width="90%" src="https://streak-stats.demolab.com?user=krupabt&hide_border=true&background=10101B&ring=D9B5F6&fire=E8B69A&currStreakLabel=D9B5F6&sideLabels=E8E3EF&dates=AAA2B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 </div>
 
+---
+
 <div align="center">
 
-*Small steps. Thoughtful work. Continuous growth.*
+### ✦ THE JOURNEY CONTINUES
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A7BB,50:6C4AB6,100:171329&height=100&section=footer" width="100%" />
+**Learn something new. Build something meaningful. Repeat.**
+
+<a href="https://github.com/krupabt?tab=repositories">
+<img src="https://img.shields.io/badge/DISCOVER%20ALL%20REPOSITORIES-39265E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Discover repositories" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B69A,50:6B477F,100:10101B&height=120&section=footer" />
 
 </div>
