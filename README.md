@@ -35,21 +35,6 @@ I enjoy building useful applications and exploring ideas that make technology mo
 
 <div align="center">
 
----
-
-## ✦ Open Source Contributions
-
-<div align="center">
-
-### OPEN SOURCE · COMMUNITY · COLLABORATION
-
-</div>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<div align="center">
 
 ### 01 · AI & CUSTOMER EXPERIENCE
 
