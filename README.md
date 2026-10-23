@@ -166,27 +166,6 @@ A web-based shopping application focused on product browsing and an online shopp
 
 ---
 
-## ⌁ GitHub, in motion
-
-<div align="center">
-
-<a href="https://github.com/krupabt">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krupabt&show_icons=true&hide_border=true&bg_color=10101B&title_color=D9B5F6&text_color=E8E3EF&icon_color=E8B69A" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/krupabt">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupabt&layout=compact&hide_border=true&bg_color=10101B&title_color=D9B5F6&text_color=E8E3EF" alt="Most used languages" />
-</a>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=krupabt&hide_border=true&background=10101B&ring=D9B5F6&fire=E8B69A&currStreakLabel=D9B5F6&sideLabels=E8E3EF&dates=AAA2B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
-
 ### ✦ THE JOURNEY CONTINUES
 
 **Learn something new. Build something meaningful. Repeat.**
