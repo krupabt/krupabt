@@ -35,6 +35,48 @@ I enjoy building useful applications and exploring ideas that make technology mo
 
 <div align="center">
 
+---
+
+## ✦ Open Source Contributions
+
+<div align="center">
+
+### OPEN SOURCE · COMMUNITY · COLLABORATION
+
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+### ✧ TEXT SUMMARIZER WEB APPLICATION — BRIEFLY AI
+
+<img src="https://img.shields.io/badge/PR%20STATUS-MERGED-9EDBCB?style=for-the-badge&logo=github&logoColor=10101B" alt="Pull Request Merged" />
+
+</div>
+
+Contributed to an open-source text summarization application by improving its user interface and summarization functionality. Enhanced the workspace with multiple summary styles, summary length controls, PDF/TXT file uploads, light and dark themes, and automated tests.
+
+**Technologies**
+
+`HTML` · `CSS` · `JavaScript` · `Python` · `FastAPI`
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-39265E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/sharathgowdaur-jpg/Text-Summarizer-Web-Application)
+[![Merged Pull Request](https://img.shields.io/badge/VIEW%20MERGED%20PR-9B668B?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/sharathgowdaur-jpg/Text-Summarizer-Web-Application/pull/1)
+[![Contribution Branch](https://img.shields.io/badge/MY%20CONTRIBUTION-E8B69A?style=for-the-badge&logo=git&logoColor=10101B)](https://github.com/krupabt/Text-Summarizer-Web-Application/tree/feature/briefly-ai-redesign)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+
+
 ### 01 · AI & CUSTOMER EXPERIENCE
 
 <a href="https://smartsupport-ai-gamma.vercel.app">
